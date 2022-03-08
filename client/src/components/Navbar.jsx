@@ -4,7 +4,7 @@ import { AiOutlineClose } from "react-icons/ai";
 import logo from "../../images/logo.png";
 
 const Navbar = () => {
-  return <h1>Navbar</h1>;
+  return <nav></nav>;
 };
 
 export default Navbar;
